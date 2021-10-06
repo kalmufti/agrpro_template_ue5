@@ -29,4 +29,4 @@ Once you have the template downloaded on your computer:
 - Select `Browse` then navigate to where you downloaded or cloned the project template.
 - Select the `AGRPro_Template.uproject` file to start a new project.
 - Unreal Engine will ask you to build the AGRPro modules for your project, select `Yes`.
-- To fix the lighting in the level, go to the `Build` menu, ten select either `Build All Levels` or `Build Lighting Only`.
+- To fix the lighting in the level, go to the `Build` menu, then select either `Build All Levels` or `Build Lighting Only`.
